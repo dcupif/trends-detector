@@ -1,0 +1,6 @@
+# API Secrets
+.keys.json
+
+# Intellij
+.idea
+*.iml
